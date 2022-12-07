@@ -9,4 +9,5 @@ public class Constants {
     public static final String DAY_4_DIR = INPUT_DIR + "04/";
     public static final String DAY_5_DIR = INPUT_DIR + "05/";
     public static final String DAY_6_DIR = INPUT_DIR + "06/";
+    public static final String DAY_7_DIR = INPUT_DIR + "07/";
 }
